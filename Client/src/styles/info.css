@@ -1,0 +1,13 @@
+
+  input{
+    width: 45%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 40px;
+    border-color: #3CBC8D;
+    box-sizing: border-box;
+    background-color:whitesmoke;
+    color: black;
+  }
